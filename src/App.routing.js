@@ -3,8 +3,8 @@ import {
     Route
 } from "react-router-dom";
 
-import Contact from './containers/Contact';
-import About from './containers/About';
+import Contact from './containers/contact/Contact';
+import About from './containers/about/About';
 
 
 function AppRouting() {

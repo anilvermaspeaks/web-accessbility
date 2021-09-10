@@ -26,8 +26,10 @@ header ul{
 
 
 main{
-  display: block;
-  margin: 30px auto;
-  max-width: 960px;
-  padding: 20px;
+ display: block;
+ margin: 0px auto;
+ max-width: 960px;
+ padding: 20px;
+ background: #f5f4f4;
+ min-height: 80vh;
 }
