@@ -1,0 +1,33 @@
+.appHeader {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  display: flex;
+  align-items: center;
+  font-size: 1.6em;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 50px;
+  width: auto;
+}
+
+li{
+  list-style-type: none;
+  list-style-position: inside;
+  margin: 0 10px;
+}
+
+
+header ul{
+  display: flex;
+}
+
+
+main{
+  display: block;
+  margin: 30px auto;
+  max-width: 960px;
+  padding: 20px;
+}
