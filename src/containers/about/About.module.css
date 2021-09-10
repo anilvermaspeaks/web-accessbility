@@ -35,6 +35,11 @@ section {
        height: 150px;
 }
 
-.enoughTime{
-    
+.AriaRoles div{
+    margin: 10px 0;
+font-size: 1.6em;
+}
+
+:focus-visible{
+    outline: 4px solid rgb(104, 104, 7);
 }

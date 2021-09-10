@@ -1,0 +1,11 @@
+.labelControls {
+    font-size: 2em;
+}
+.labelControls div{
+    margin: 10px 0;
+}
+
+label{
+    display: block;
+    margin: 5px 0;
+}
